@@ -1,5 +1,5 @@
 - 👋 Hola, soy @lautiland.
+- 📘 Estoy estudiando la carrera de Ingeniería Informática en la Facultad de Ingeniería de la Universidad de Buenos Aires
 - 👀 Estoy interesado en el mundo del IT, la programación y me gustaría aprender acerca de IA y BlockChain.
-- 🌱 Actualmente estoy aprendiendo C++ en la universidad y aparte estoy repasando HTML, CSS y JS.
+- 🌱 Actualmente estoy aprendiendo C++ y estoy repasando HTML, CSS y JS.
 - 📫 Puedes contactarte conmigo por medio de mi mail ljovanovics@fi.uba.ar
-- 
