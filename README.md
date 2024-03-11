@@ -1,16 +1,17 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hi there, I'm Lautiland 👋</h1>
+</div>
 
-<!--
-**lautiland/lautiland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+  - Computer Engineering Student at University of Buenos Aires.
+  - I'm currently learning OOP, algorithms theory and algebra.
+  - I'm looking to collaborate on projects that allow me to develop my skills as a programmer.
 
-Here are some ideas to get you started:
+## GitHub Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://github.com/lautiland">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lautiland&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lautiland&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
