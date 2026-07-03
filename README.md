@@ -4,7 +4,7 @@
 
 ## About me
   - Computer Engineering Student at University of Buenos Aires.
-  - I'm currently learning probability, algorithms theory, software engineering and OS theory.
+  - I'm currently learning about cybersecurity, data science, and concurrent programming.
   - I'm looking to collaborate on projects that allow me to develop my skills as a programmer.
 
 ## GitHub Analytics
